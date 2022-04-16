@@ -1,0 +1,60 @@
+.box{
+    
+    width: 100%;
+    height: 640px;
+    background-color:khaki;
+    align-items: center;
+}
+.box{
+    display: flex;
+}
+.fb{
+    padding: 50px;
+}
+.fb>p{
+    font-size: 0.8cm;
+}
+h1{
+    color: rgb(26, 11, 236);
+    font-size: 2cm;
+}
+.input{
+    margin: 60px 0 0 50px;
+    border-radius: 4px;
+    width: 450px;
+    height: 400px;
+    background-color: white;
+    padding: 10px 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px;
+}
+.input>a{
+    margin-left: 155px;
+    text-decoration: none;
+}
+input{
+    display: block;
+    width: 400px;
+    height: 40px;
+    margin: 20px 0 0 20px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+.pasword{
+    margin-top: 10px;
+}
+.login{
+    background-color: rgb(26, 11, 236);
+    color: white;
+    font-size: larger;
+    height: 50px;
+    border-color: rgb(26, 11, 236);
+}
+.green{
+    color: white;
+    background-color: green;
+    width: 250px;
+    height: 45px;
+    margin-left: 100px;
+}
+
+
