@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+}
+.logo{
+    text-align: center;
+}
+.logo>img{
+    width: 500px;
+    height: 100px;
+}
+.box{
+    border: 1px solid;
+    width: 400px;
+    height: 550px;
+    margin-left: 35%;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+.head>p{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: gray;
+}
+.border{
+    border: 1px solid;
+    border-color: lightgray;
+    width: auto;
+}
+div.input{
+    padding: 10px;
+}
+.name, .surname{
+    width: 180px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+.email, .pass{
+    width: 370px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+.date{
+    padding: 10px;
+}
+label.birth{
+    display: block;
+    margin-bottom: 5px;
+}
+select.month{
+    height: 36px;
+    width: 125px;
+    border-radius: 4px;
+}
+select.day{
+    height: 36px;
+    width: 120px;
+    border-radius: 4px;
+}
+select.year{
+    height: 36px;
+    width: 120px;
+    border-radius: 4px;
+}
+.question{
+    color: darkslategray;
+    margin-left: 5px;
+}
+div.gender{
+    margin: 5px 0 5px 0;
+}
+.gen_input{
+    border: 1px #ccd0d5;
+}
+.borde1, .borde2, .borde3{
+    border: 1px solid;
+    height: 20px;
+    width: 120px;
+    border-radius: 4px;
+    padding: 10px 0 5px 5px;
+    border-color: gray;
+}
+.borde2, .borde3{
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+}
+.font{
+    padding: 0 10px;
+    font-size: 11px;
+}
